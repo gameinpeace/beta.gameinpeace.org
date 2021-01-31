@@ -5,19 +5,19 @@
 	xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
 		http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 	<url>
-	  <loc>https://gameinpeace.org/</loc>
-	  <lastmod>2021-01-21</lastmod>
+	  <loc>https://beta.gameinpeace.org/</loc>
+	  <lastmod>2021-01-31</lastmod>
 	</url>
 	<url>
-	  <loc>https://gameinpeace.org/about/</loc>
-	  <lastmod>2020-11-25</lastmod>
+	  <loc>https://beta.gameinpeace.org/about/</loc>
+	  <lastmod>2021-01-31</lastmod>
 	</url>
 	<url>
-	  <loc>https://gameinpeace.org/operations/</loc>
-	  <lastmod>2021-01-22</lastmod>
+	  <loc>https://beta.gameinpeace.org/operations/</loc>
+	  <lastmod>2021-01-31</lastmod>
 	</url>
 	<url>
-	  <loc>https://gameinpeace.org/help/</loc>
-	  <lastmod>2020-11-25</lastmod>
+	  <loc>https://beta.gameinpeace.org/help/</loc>
+	  <lastmod>2021-01-31</lastmod>
 	</url>
 </urlset>
